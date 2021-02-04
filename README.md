@@ -1,2 +1,2 @@
-# k8s-experiment
-k8s experiment
+# kubernetes-experiment
+kubernetes experiments from kubernetes in action
